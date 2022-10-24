@@ -8,7 +8,7 @@ const Categories = [
     },
     {
         name: "netflixOriginals",
-        title: "Originais Netflix",
+        title: "Originais",
         path: `/discover/tv?api_key=${API_KEY}&with_networks=213`
     },
     {
