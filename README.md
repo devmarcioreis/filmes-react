@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Consumindo api com react: https://devmarcioreis.github.io/filmes-react/
+Teste consumindo: https://devmarcioreis.github.io/filmes-react/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
